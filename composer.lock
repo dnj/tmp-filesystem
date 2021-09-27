@@ -4,11 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "39eb1b23b376ae74408c9e4c560608ec",
+    "content-hash": "2855fd374a69f1e8e38098aa7250d458",
     "packages": [
         {
             "name": "dnj/filesystem",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dnj/filesystem.git",
@@ -28,7 +28,6 @@
                 "phpstan/phpstan": "^0.12.68",
                 "phpunit/phpunit": "^9.5"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -41,26 +40,26 @@
             ],
             "support": {
                 "issues": "https://github.com/dnj/filesystem/issues",
-                "source": "https://github.com/dnj/filesystem/tree/master"
+                "source": "https://github.com/dnj/filesystem/tree/1.0.0"
             },
             "time": "2021-09-26T19:25:16+00:00"
         },
         {
             "name": "dnj/local-filesystem",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dnj/local-filesystem.git",
-                "reference": "9b51a7014d34fadf24674c98b6179474ac850c7c"
+                "reference": "e74a2ee47a311706dbb38c3e7aded5145afce160"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dnj/local-filesystem/zipball/9b51a7014d34fadf24674c98b6179474ac850c7c",
-                "reference": "9b51a7014d34fadf24674c98b6179474ac850c7c",
+                "url": "https://api.github.com/repos/dnj/local-filesystem/zipball/e74a2ee47a311706dbb38c3e7aded5145afce160",
+                "reference": "e74a2ee47a311706dbb38c3e7aded5145afce160",
                 "shasum": ""
             },
             "require": {
-                "dnj/filesystem": "dev-master",
+                "dnj/filesystem": "^1.0.0",
                 "php": ">=7.4"
             },
             "require-dev": {
@@ -68,7 +67,6 @@
                 "phpstan/phpstan": "^0.12.68",
                 "phpunit/phpunit": "^9.5"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -81,9 +79,9 @@
             ],
             "support": {
                 "issues": "https://github.com/dnj/local-filesystem/issues",
-                "source": "https://github.com/dnj/local-filesystem/tree/master"
+                "source": "https://github.com/dnj/local-filesystem/tree/1.0.0"
             },
-            "time": "2021-09-26T19:43:32+00:00"
+            "time": "2021-09-27T10:45:36+00:00"
         }
     ],
     "packages-dev": [
@@ -4253,10 +4251,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "dnj/filesystem": 20,
-        "dnj/local-filesystem": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
