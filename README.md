@@ -1,9 +1,9 @@
 # PHP Temporary FileSystem (Simple local interface to work with temporary files and directories)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Testing status][ico-workflow-test]][link-workflow-test]
-[![Software License][ico-license]][link-license]
 [![Total Downloads][ico-downloads]][link-downloads]
+[![Software License][ico-license]][link-license]
+[![Testing status][ico-workflow-test]][link-workflow-test]
 
 ## Introduction 
 
