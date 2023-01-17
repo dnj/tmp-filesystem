@@ -1,6 +1,7 @@
 # PHP Temporary FileSystem (Simple local interface to work with temporary files and directories)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
+[![Testing status][ico-workflow-test]][link-workflow-test]
 [![Software License][ico-license]][link-license]
 [![Total Downloads][ico-downloads]][link-downloads]
 
@@ -54,7 +55,9 @@ The MIT License (MIT). Please see [License File][link-license] for more informat
 [ico-version]: https://img.shields.io/packagist/v/dnj/tmp-filesystem.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/dnj/tmp-filesystem.svg?style=flat-square
+[ico-workflow-test]: https://github.com/dnj/tmp-filesystem/actions/workflows/test.yml/badge.svg
 
+[link-workflow-test]: https://github.com/dnj/tmp-filesystem/actions/workflows/test.yml
 [link-packagist]: https://packagist.org/packages/dnj/tmp-filesystem
 [link-license]: https://github.com/dnj/tmp-filesystem/blob/master/LICENSE
 [link-downloads]: https://packagist.org/packages/dnj/tmp-filesystem
