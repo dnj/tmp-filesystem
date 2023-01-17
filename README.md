@@ -19,6 +19,11 @@ This is a simple implemenetation of [DNJ\FileSystem][repo-dnj-filesystem] for wo
 * Some useful resources to start coding
 
 ## How To Use
+First of all, you need to add this library to your project, so run:
+```bash
+composer require dnj/tmp-filesystem
+```
+
 Working with this filesystem is same as working with [DNJ\local-filesystem][repo-dnj-local-filesystem] \
 But you don't need to specify `$path` in the constructor of the Nodes.
 Because the file or directory is created in the temporary path of the operationg system.
