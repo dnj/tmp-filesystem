@@ -8,7 +8,7 @@
 
 This is a simple implemenetation of [DNJ\FileSystem][repo-dnj-filesystem] for working with temporary disk based file system.
 * Latest versions of PHP and PHPUnit and PHPCsFixer
-* Best practices applied:irenweb.com
+* Best practices applied:
   * [`README.md`][link-readme] (badges included)
   * [`LICENSE`][link-license]
   * [`composer.json`][link-composer-json]
